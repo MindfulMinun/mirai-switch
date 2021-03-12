@@ -1,0 +1,6 @@
+build/
+/mirai.*
+!/mirai.nro
+!/mirai.png
+
+.DS_Store
